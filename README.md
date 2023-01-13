@@ -1,4 +1,3 @@
-- Hi, I’m Ruzzy
 - I'm a Programmer that's currently learning Game Development
 - You can reach me by screaming hard enough in the direction of Sweden
 
